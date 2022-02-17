@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Upasana Raval"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "OR enthusiast | Art lover | Lifelong seeker"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
